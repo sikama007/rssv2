@@ -1,0 +1,27 @@
+{
+  "name": "@types/rssv2",
+  "version": "2.0.0",
+  "description": "TypeScript definitions for rss",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/rss",
+  "license": "UNLICENSED",
+  "contributors": [
+    "Second Datke (https://github.com/secondwtq)"
+  ],
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/rss"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "1997963ed686298c4605fcd04b74ee0266f8e0eef6cc0380371d086ba93734ea",
+  "typeScriptVersion": "4.5",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "keywords": [
+    "rss"
+  ],
+  "author": "sikama"
+}
